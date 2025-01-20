@@ -1,4 +1,7 @@
-<img src="Logo-PILE.png" alt="estructura" width="50"/> ## "Pharmaco-Informatics Learning Environment" (PILE)
+<div style="display: flex; align.items: center;">
+<img src="Logo-PILE.png" alt="estructura" width="50"/> 
+<h1 style = "margin: 0;"> ; "Pharmaco-Informatics Learning Environment" (PILE) </h1>
+</div>
 
 
 ## INTRODUCCIÓN
