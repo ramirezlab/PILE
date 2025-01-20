@@ -1,7 +1,9 @@
-<div style="display: flex; align-items: center;">
-<img src="Logo-PILE.png" alt="Pile_image" style = "width= 100px; margin_right: 5px;"/> 
-<h1 style = "margin: 0;">"Pharmaco-Informatics Learning Environment" (PILE) </h1>
-</div>
+<table> 
+  <tr>
+    <td><img src="Logo-PILE.png" alt="Logo PILE" style="width: 150px;"></td>
+         <td><h1>"Pharmaco-Informatics Learning Environment" (PILE)</h1></td>
+  </tr> 
+</table>
 
 
 ## INTRODUCCIÓN
