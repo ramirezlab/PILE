@@ -18,15 +18,15 @@ PILE es un recurso excepcional para estudiantes, investigadores y profesionales 
 4. Aplicar soluciones basadas en algoritmos de aprendizaje automático (Machine learning) para realizar campañas de cribado virtual basado en ligandos.  
 
 ## Contenido
-- **Parte uno**. Introducción a Python
+- **1. Python Básico: inicia tu viaje por la farmacoinformatica**
   - Variables, tipos de datos, estructuras de datos, manipulación de archivos, estructuras de control de flujo, funciones...
   - *Práctica 1 y 2*: Expresión del material genético
   - *Práctica 3*: Proteínas y aminoácidos
 
-- **Parte dos**. DataFrames y visualización de datos
+- **2. De datos a gráficas: propiedades drug-likeness y similitud química con python.**
   - **2.1** Introducción a la manipulación de Estructuras de Datos avanzadas con Pandas
       - Librerias `numpy` y `pandas`
-      - Limpieza y filtrado de bases de datos.
+      - Limpieza y filtrado de bases de datos
       - *Práctica 1*: Adquirir datos de ChEMBL
       
   - **2.2** Introducción a la visualización de Datos
@@ -34,7 +34,7 @@ PILE es un recurso excepcional para estudiantes, investigadores y profesionales 
         - Gráficos de líneas, gráficos circulares, gráficos de barras horizontales, gráficos de barras verticales, histogramas, gráficos de radar, ...
       - *Práctica 1*: Filtrado molecular: ADME y criterios de similitud 'lead-likeness'
       - *Práctica 2*: Detección basada en ligandos: similitud de compuestos y agrupamiento de compuestos
-- **Parte tres**. Machine learning
+- **3. Machine learning: teoría y aplicaciones en el diseño de fármacos.**
   - **3.1** Introducción a Machine Learning
   - **3.2_Práctica 1**: Modelo de clasificación de ligandos
        
