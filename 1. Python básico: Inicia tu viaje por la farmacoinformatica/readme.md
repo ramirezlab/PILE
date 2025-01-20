@@ -1,4 +1,4 @@
-# P1 - PARTE UNO: Básico
+# 1. Python básico_ inicia tu viaje por la farmacoinformática
 
 ### Introducción a Python y Jupyter para su aplicación en "Pharmaco-Informatics Learning Environment (PILE)"
 
@@ -25,7 +25,7 @@ En este primer Jupyter notebook de *1.1_Introducción_Python* aprenderá:
 
 *******************************************
 
-# P1 - PART ONE: Basics
+# 1. Basic python: Begin your journey into pharmacoinformatics
 
 ### Introduction to Python and Jupyter for its application to "Pharmaco-Informatics Learning Environment (PILE)"
 

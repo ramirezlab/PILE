@@ -120,12 +120,12 @@ PILE is an exceptional resource for students, researchers, and professionals see
 4. To apply solutions based on Machine learning algorithms to perform ligand-based virtual screening campaigns. 
 
 ## Contents
-- **Part one**. Introduction to Python
+- **1. Basic python: begin your journey into pharmacoinformatics**
   - Variables, data types, data structures, file manipulation, flow control structures, functions...
   - *Practice 1 and 2*: Expression of genetic material
   - *Practice 3*: Proteins and amino acids
 
-- **Part two**. DataFrames and data visualization
+- **2. From data to graphs: drug-likeness properties and chemical similarity with python**
   - **2.1** Introduction to manipulating advanced data structures with Pandas
       - `numpy` and `pandas` libraries
       - Database cleaning and filtering 
@@ -136,7 +136,7 @@ PILE is an exceptional resource for students, researchers, and professionals see
         - Lineplots, pie plots, horizontal bar plots, vertical bar plots, histograms, radar plots, ...
       - *Practice 1*: Molecular filtering: ADME and lead-likeness criteria
       - *Practice 2*: Ligand-based screening: Compound similarity and compound clustering
-- **Part three**. Machine learning
+- **3. Machine learning: Theory and applications in drug design**
   - **3.1** Introduction to Machine Learning
   - **3.2_Practice 1**: Ligand classification model
        
@@ -197,5 +197,4 @@ jupyter notebook
 This work is licensed under the MIT License
 
 ## Citation
-
 
