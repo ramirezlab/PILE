@@ -1,4 +1,4 @@
-name: chemo
+name: pile
 channels:
   - conda-forge
   - schrodinger

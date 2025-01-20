@@ -59,7 +59,7 @@ Para utilizar el cuaderno puedes:
    **Nota**: En Windows, es necesario instalar el paquete `Git`. Puede ver las instrucciones [aquí](https://git-scm.com/download/win).
    
 ```console
-git clone https://github.com/ramirezlab/CHEMO.git
+git clone https://github.com/ramirezlab/PILE.git
 ```
 
 **Nota**: Para abrir la consola de comandos en Windows, puede buscar “Símbolo del sistema” o "cmd" en el menú de inicio o presionar la tecla de Windows + R en tu teclado para abrir la ventana Ejecutar. Desde allí, escribe “cmd” y presiona Enter, y la ventana de la consola de comandos aparecerá.
@@ -68,7 +68,7 @@ git clone https://github.com/ramirezlab/CHEMO.git
 
 Instalar Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 
-3. Utilice el sistema de gestión de paquetes conda para crear un entorno (CHEMO). Proporcionamos un archivo de entorno (archivo yml) que contiene todos los paquetes necesarios. Una vez que se instala Anaconda, puede iniciar la línea de comando para crear el entorno e instalar los requisitos utilizando el siguiente código:
+3. Utilice el sistema de gestión de paquetes conda para crear un entorno (PILE). Proporcionamos un archivo de entorno (archivo yml) que contiene todos los paquetes necesarios. Una vez que se instala Anaconda, puede iniciar la línea de comando para crear el entorno e instalar los requisitos utilizando el siguiente código:
 
   **Nota**: Para iniciar la línea de comando de anaconda en Windows, puede buscar “Anaconda Prompt” en el menú de inicio y se abrirá la ventana de la consola de comandos.
 
@@ -80,7 +80,7 @@ El archivo `requisites.yml` debe estar en el mismo directorio donde se ejecuta e
 
 4.  Activar el entorno conda
 ```console
-conda activate chemo
+conda activate pile
 ```
 Ahora, puede trabajar dentro del entorno conda.
 
@@ -161,7 +161,7 @@ To use the notebook you can:
    **Note**: In Windows operating system, it is necessary to install the `Git` package. Please see [here](https://git-scm.com/download/win) for instructions on how to install it.
 
 ```console
-git clone https://github.com/ramirezlab/CHEMO.git
+git clone https://github.com/ramirezlab/PILE.git
 ```
 **Note**: To open the command prompt in Windows, you can either search for “Command Prompt” or "cmd" in the Start menu or press the Windows key + R on your keyboard to open the Run dialog box. From there, type “cmd” and press Enter, and the command prompt window will appear.
 
@@ -180,7 +180,7 @@ The `requisites.yml` file must be in the same directory where the code is execut
 
 4.  Activate the conda environment
 ```console
-conda activate chemo
+conda activate pile
 ```
 Now, you can work within the conda environment.
 
