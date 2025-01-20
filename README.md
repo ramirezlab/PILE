@@ -169,7 +169,7 @@ git clone https://github.com/ramirezlab/PILE.git
 
 Install Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 
-3. Use the package management system conda to create an environment (pile). We provide an environment file (yml file) containing all required packages. Once Anaconda is installed, you can initiate the command line to create the environment and install the requirements using the following code:
+3. Use the package management system conda to create an environment (PILE). We provide an environment file (yml file) containing all required packages. Once Anaconda is installed, you can initiate the command line to create the environment and install the requirements using the following code:
    
   **Note**: To initiate the `command line` in Windows, you can either search for "_Anaconda Prompt_" in the Start menu and the command prompt window will appear.
 ```console
