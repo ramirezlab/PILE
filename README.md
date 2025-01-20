@@ -1,4 +1,4 @@
-<div style="display: flex; align.items: center;">
+<div style="display: flex; align-items: center;">
 <img src="Logo-PILE.png" alt="Pile_image" style = "width= 100px; margin_right: 20px;"/> 
 <h1 style = "margin: 0;"> "Pharmaco-Informatics Learning Environment" (PILE) </h1>
 </div>
