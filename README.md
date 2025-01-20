@@ -1,6 +1,6 @@
 # "Pharmaco-Informatics Learning Environment" (PILE)
 
-<img src="img/Figura1-es.jpg" alt="estructura" width="600"/>
+<img src="https://github.com/ramirezlab/PILE/blob/main/Logo-PILE.png" alt="estructura" width="600"/>
 
 ## INTRODUCCIÓN
 ### Diseño y modelado de fármacos: exploración de la intersección entre la ciencia de datos y el descubrimiento de fármacos.
