@@ -106,7 +106,12 @@ Este trabajo está autorizado bajo la Licencia MIT
 
 *******************************************************************************************
 
-# "Pharmaco-Informatics Learning Environment" (PILE)
+<table> 
+  <tr>
+    <td><img src="Logo-PILE.png" alt="Logo PILE" style="width: 150px;"></td>
+         <td><h1>"Pharmaco-Informatics Learning Environment" (PILE)</h1></td>
+  </tr> 
+</table>
 
 ## INTRODUCTION
 ### Drug Design and Modeling: Exploring the Intersection of Data Science and Drug Discovery
