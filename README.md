@@ -1,4 +1,4 @@
-# "Collaborative Chemoinformatics Open Platform" (CHEMO)
+# "Pharmaco-Informatics Learning Environment" (PILE)
 
 ## INTRODUCCIÓN
 ### Diseño y modelado de fármacos: exploración de la intersección entre la ciencia de datos y el descubrimiento de fármacos.
@@ -6,9 +6,9 @@ El diseño y modelado de fármacos es un área que continúa expandiéndose en i
 
 A medida que CADD continúa evolucionando, la ciencia de datos ha llegado a desempeñar un papel vital en el avance del descubrimiento de fármacos. La aplicación de técnicas de ciencia de datos, como el aprendizaje automático y la minería de datos, ha aumentado la eficiencia y la precisión del proceso.
 
-"Collaborative Chemoinformatics Open Platform" (CHEMO) tiene como objetivo proporcionar una comprensión completa y profunda de los fundamentos de CADD, con énfasis en la incorporación de técnicas clave de ciencia de datos en todo momento. El curso cubre una amplia gama de contenido, que va desde los elementos fundamentales de la programación de Python, hasta el diseño de fármacos basado en estructuras y ligandos, así como la detección virtual.
+"Pharmaco-Informatics Learning Environment" (PILE) tiene como objetivo proporcionar una comprensión completa y profunda de los fundamentos de CADD, con énfasis en la incorporación de técnicas clave de ciencia de datos en todo momento. El curso cubre una amplia gama de contenido, que va desde los elementos fundamentales de la programación de Python, hasta el diseño de fármacos basado en estructuras y ligandos, así como la detección virtual.
 
-CHEMO es un recurso excepcional para estudiantes, investigadores y profesionales que buscan mejorar su conocimiento de CADD y aquellos interesados en comprender el papel fundamental que desempeña la ciencia de datos en el descubrimiento de fármacos. Al tomar este curso, los participantes pueden esperar obtener una comprensión más profunda de los emocionantes desarrollos en este campo de rápido crecimiento.
+PILE es un recurso excepcional para estudiantes, investigadores y profesionales que buscan mejorar su conocimiento de CADD y aquellos interesados en comprender el papel fundamental que desempeña la ciencia de datos en el descubrimiento de fármacos. Al tomar este curso, los participantes pueden esperar obtener una comprensión más profunda de los emocionantes desarrollos en este campo de rápido crecimiento.
 
 ## Resultados de aprendizaje
 
@@ -100,7 +100,7 @@ Este trabajo está autorizado bajo la Licencia MIT
 
 *******************************************************************************************
 
-# Collaborative Chemoinformatics Open Platform (CHEMO)
+# "Pharmaco-Informatics Learning Environment" (PILE)
 
 ## INTRODUCTION
 ### Drug Design and Modeling: Exploring the Intersection of Data Science and Drug Discovery
@@ -108,9 +108,9 @@ Drug design and modeling is an area that continues to expand in significance in 
 
 As CADD continues to evolve, data science has come to play a vital role in advancing drug discovery. The application of data science techniques such as machine learning and data mining have increased the efficiency and accuracy of the process.
 
-The Collaborative Chemoinformatics Open Platform (CHEMO) aims to provide a comprehensive and thorough understanding of CADD fundamentals, with an emphasis on incorporating key data science techniques throughout. The course covers a wide array of content, ranging from the foundational elements of Python programming, to ligand-based and structure-based drug design, as well as virtual screening.
+"Pharmaco-Informatics Learning Environment" (PILE) aims to provide a comprehensive and thorough understanding of CADD fundamentals, with an emphasis on incorporating key data science techniques throughout. The course covers a wide array of content, ranging from the foundational elements of Python programming, to ligand-based and structure-based drug design, as well as virtual screening.
 
-CHEMO is an exceptional resource for students, researchers, and professionals seeking to enhance their knowledge of CADD, and those interested in understanding the critical role that data science plays in drug discovery. By enrolling in this course, participants can expect to gain a deeper understanding of the exciting developments in this rapidly-growing field.
+PILE is an exceptional resource for students, researchers, and professionals seeking to enhance their knowledge of CADD, and those interested in understanding the critical role that data science plays in drug discovery. By enrolling in this course, participants can expect to gain a deeper understanding of the exciting developments in this rapidly-growing field.
 
 ## Learning Outcomes
 
