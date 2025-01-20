@@ -1,5 +1,7 @@
 # "Pharmaco-Informatics Learning Environment" (PILE)
 
+<img src="img/Figura1-es.jpg" alt="estructura" width="600"/>
+
 ## INTRODUCCIÓN
 ### Diseño y modelado de fármacos: exploración de la intersección entre la ciencia de datos y el descubrimiento de fármacos.
 El diseño y modelado de fármacos es un área que continúa expandiéndose en importancia en el campo del descubrimiento de fármacos. Específicamente, la ciencia del diseño de fármacos asistido por computadora (CADD, por sus siglas en inglés) ha demostrado ser fundamental para descubrir, diseñar u optimizar moléculas pequeñas que tienen el potencial de convertirse en tratamientos medicinales viables.
