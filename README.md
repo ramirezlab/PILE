@@ -6,7 +6,7 @@ El diseño y modelado de fármacos es un área que continúa expandiéndose en i
 
 A medida que CADD continúa evolucionando, la ciencia de datos ha llegado a desempeñar un papel vital en el avance del descubrimiento de fármacos. La aplicación de técnicas de ciencia de datos, como el aprendizaje automático y la minería de datos, ha aumentado la eficiencia y la precisión del proceso.
 
-"Pharmaco-Informatics Learning Environment" (PILE) tiene como objetivo proporcionar una comprensión completa y profunda de los fundamentos de CADD, con énfasis en la incorporación de técnicas clave de ciencia de datos en todo momento. El curso cubre una amplia gama de contenido, que va desde los elementos fundamentales de la programación de Python, hasta el diseño de fármacos basado en estructuras y ligandos, así como la detección virtual.
+PILE tiene como objetivo proporcionar una comprensión completa y profunda de los fundamentos de CADD, con énfasis en la incorporación de técnicas clave de ciencia de datos en todo momento. El curso cubre una amplia gama de contenido, que va desde los elementos fundamentales de la programación de Python, hasta el diseño de fármacos basado en estructuras y ligandos, así como la detección virtual.
 
 PILE es un recurso excepcional para estudiantes, investigadores y profesionales que buscan mejorar su conocimiento de CADD y aquellos interesados en comprender el papel fundamental que desempeña la ciencia de datos en el descubrimiento de fármacos. Al tomar este curso, los participantes pueden esperar obtener una comprensión más profunda de los emocionantes desarrollos en este campo de rápido crecimiento.
 
@@ -42,11 +42,11 @@ PILE es un recurso excepcional para estudiantes, investigadores y profesionales 
 El objetivo de este curso es enseñar conceptos y habilidades esenciales en el diseño y modelado de fármacos. El curso está diseñado para atender a una amplia gama de estudiantes, desde principiantes hasta avanzados, y cubre múltiples temas, como una introducción a Python, manipulación y visualización de datos, diseño de fármacos basado en estructuras y ligandos, y detección virtual. El plan de estudios es modular para permitir que los instructores personalicen el material de acuerdo con sus necesidades y métodos de enseñanza.
 
 ### ¿Por qué tomar este curso?
-Hay varias razones para tomar este curso. En primer lugar, proporciona una base sólida en el diseño de fármacos asistido por computadora (CADD), que es un campo cada vez más vital en el descubrimiento de fármacos. En segundo lugar, el curso está diseñado de manera integral para cubrir desde temas básicos hasta temas avanzados, lo que lo hace adecuado para estudiantes de todos los niveles. Finalmente, la flexibilidad del plan de estudios permite que se adapte a las necesidades de aprendizaje de cada uno.
+Hay varias razones para tomar este curso. En primer lugar, proporciona una base sólida en el CADD, que es un campo cada vez más vital en el descubrimiento de fármacos. En segundo lugar, el curso está diseñado de manera integral para cubrir desde temas básicos hasta temas avanzados, lo que lo hace adecuado para estudiantes de todos los niveles. Finalmente, la flexibilidad del plan de estudios permite que se adapte a las necesidades de aprendizaje de cada uno.
 
 ### ¿Para quién es este curso?
 
-Este curso es adecuado para estudiantes de pregrado y posgrado que deseen profundizar en el diseño de fármacos asistido por computadora (CADD) y aplicar los principios de la ciencia de datos al campo del diseño de fármacos. También es adecuado para investigadores, profesionales y científicos que deseen enriquecer su comprensión de los conceptos y técnicas de CADD.
+Este curso es adecuado para estudiantes de pregrado y posgrado que deseen profundizar en el CADD y aplicar los principios de la ciencia de datos al campo del diseño de fármacos. También es adecuado para investigadores, profesionales y científicos que deseen enriquecer su comprensión de los conceptos y técnicas de CADD.
 
 ### ¿Qué necesitas?
 
@@ -108,7 +108,7 @@ Drug design and modeling is an area that continues to expand in significance in 
 
 As CADD continues to evolve, data science has come to play a vital role in advancing drug discovery. The application of data science techniques such as machine learning and data mining have increased the efficiency and accuracy of the process.
 
-"Pharmaco-Informatics Learning Environment" (PILE) aims to provide a comprehensive and thorough understanding of CADD fundamentals, with an emphasis on incorporating key data science techniques throughout. The course covers a wide array of content, ranging from the foundational elements of Python programming, to ligand-based and structure-based drug design, as well as virtual screening.
+PILE aims to provide a comprehensive and thorough understanding of CADD fundamentals, with an emphasis on incorporating key data science techniques throughout. The course covers a wide array of content, ranging from the foundational elements of Python programming, to ligand-based and structure-based drug design, as well as virtual screening.
 
 PILE is an exceptional resource for students, researchers, and professionals seeking to enhance their knowledge of CADD, and those interested in understanding the critical role that data science plays in drug discovery. By enrolling in this course, participants can expect to gain a deeper understanding of the exciting developments in this rapidly-growing field.
 
@@ -144,11 +144,11 @@ PILE is an exceptional resource for students, researchers, and professionals see
 The aim of this course is to teach essential concepts and skills in drug design and modeling. The course is designed to cater to a wide range of students, from novice to advanced, covering multiple topics, such as an introduction to Python, data manipulation and visualization, structure-based and ligand-based drug design, and virtual screening. The curriculum is modular to let instructors customize the material according to their needs and teaching methods.
 
 ### Why take this course?
-There are several reasons for taking this course. Firstly, it provides a strong foundation in computer-aided drug design (CADD), which is an increasingly vital field in drug discovery. Secondly, the course is comprehensively designed to cover from basics to advanced topics, making it suitable for students at all levels. Finally, the flexibility of the curriculum enables it to be tailored according to one's learning needs.
+There are several reasons for taking this course. Firstly, it provides a strong foundation in CADD, which is an increasingly vital field in drug discovery. Secondly, the course is comprehensively designed to cover from basics to advanced topics, making it suitable for students at all levels. Finally, the flexibility of the curriculum enables it to be tailored according to one's learning needs.
 
 ### Who is this course for?
 
-This course is suitable for undergraduate and graduate students who want to delve into computer-aided drug design (CADD) and apply the principles of data science to the field of drug design. It is also fitting for researchers, professionals, and scientists who want to enrich their understanding of the concepts and techniques of CADD.
+This course is suitable for undergraduate and graduate students who want to delve into CADD and apply the principles of data science to the field of drug design. It is also fitting for researchers, professionals, and scientists who want to enrich their understanding of the concepts and techniques of CADD.
 
 ### What do you need?
 
