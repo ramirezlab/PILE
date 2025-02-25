@@ -57,31 +57,34 @@ Este curso es adecuado para estudiantes de pregrado y posgrado que deseen profun
 
 ### ¿Qué necesitas?
 
-Para utilizar el cuaderno puedes:
+1. Para utilizar el cuaderno puedes:
 
 - Opción 1: Clonando el repositorio a tu ordenador usando el paquete `git`.
+
+  **Nota**: En Windows, es necesario instalar el paquete `Git`. Puede ver las instrucciones [aquí](https://git-scm.com/download/win).
+
+  ```console
+  git clone https://github.com/ramirezlab/PILE.git
+  ```
+
 - Opción 2: Descargándolo como archivo zip y descomprimiéndolo.
 - Opción 3: Seguir los enlaces de Google CoLab en cada cuaderno.
 
-   **Nota**: En Windows, es necesario instalar el paquete `Git`. Puede ver las instrucciones [aquí](https://git-scm.com/download/win).
 
-```console
-git clone https://github.com/ramirezlab/PILE.git
-```
 
 **Nota**: Para abrir la consola de comandos en Windows, puede buscar “Símbolo del sistema” o "cmd" en el menú de inicio o presionar la tecla de Windows + R en tu teclado para abrir la ventana Ejecutar. Desde allí, escribe “cmd” y presiona Enter, y la ventana de la consola de comandos aparecerá.
 
 2. Recomendamos usar el software Anaconda para una instalación limpia donde puede crear un entorno e instalar todos los paquetes necesarios.
 
-Instalar Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
+  Instalar Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 
 3. Utilice el sistema de gestión de paquetes conda para crear un entorno (PILE). Proporcionamos un archivo de entorno (archivo yml) que contiene todos los paquetes necesarios. Una vez que se instala Anaconda, puede iniciar la línea de comando para crear el entorno e instalar los requisitos utilizando el siguiente código:
 
   **Nota**: Para iniciar la línea de comando de anaconda en Windows, puede buscar “Anaconda Prompt” en el menú de inicio y se abrirá la ventana de la consola de comandos.
 
-```console
-conda env create -file requisites.yml
-```
+  ```console
+  conda env create -file requisites.yml
+  ```
 
 El archivo `requisites.yml` debe estar en el mismo directorio donde se ejecuta el código.
 
@@ -165,22 +168,24 @@ This course is suitable for undergraduate and graduate students who want to delv
 
 ### What do you need?
 
-To use the notebook you can:
+1. To use the notebook you can:
 
 - Option 1: Cloning the repository to your computer using the `git` package.
+
+  **Note**: In Windows operating system, it is necessary to install the `Git` package. Please see [here](https://git-scm.com/download/win) for instructions on how to install it.
+
+  ```console
+  git clone https://github.com/ramirezlab/PILE.git
+  ```
+
 - Option 2: Downloading it as a zip archive and unzipping it.
 - Option 3: Follow the Google CoLab links in each notebook.
 
-   **Note**: In Windows operating system, it is necessary to install the `Git` package. Please see [here](https://git-scm.com/download/win) for instructions on how to install it.
-
-```console
-git clone https://github.com/ramirezlab/PILE.git
-```
 **Note**: To open the command prompt in Windows, you can either search for “Command Prompt” or "cmd" in the Start menu or press the Windows key + R on your keyboard to open the Run dialog box. From there, type “cmd” and press Enter, and the command prompt window will appear.
 
 2. We recommend using the Anaconda software for a clean installation where you can create an environment and install all the required packages.
 
-Install Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
+  Install Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 
 3. Use the package management system conda to create an environment (PILE). We provide an environment file (yml file) containing all required packages. Once Anaconda is installed, you can initiate the command line to create the environment and install the requirements using the following code:
 
