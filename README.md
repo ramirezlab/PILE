@@ -43,7 +43,7 @@ PILE es un recurso excepcional para estudiantes, investigadores y profesionales 
       - *Práctica 2*: Detección basada en ligandos: similitud de compuestos y agrupamiento de compuestos
 - **3. Machine learning: teoría y aplicaciones en el diseño de fármacos.**
   - **3.1** Introducción a Machine Learning
-  - **3.2_Práctica 1**: Modelo de clasificación de ligandos
+  - *Práctica 1*: Modelo de clasificación de ligandos
 
 ## Objetivo
 El objetivo de este curso es enseñar conceptos y habilidades esenciales en el diseño y modelado de fármacos. El curso está diseñado para atender a una amplia gama de estudiantes, desde principiantes hasta avanzados, y cubre múltiples temas, como una introducción a Python, manipulación y visualización de datos, diseño de fármacos basado en estructuras y ligandos, y detección virtual. El plan de estudios es modular para permitir que los instructores personalicen el material de acuerdo con sus necesidades y métodos de enseñanza.
@@ -151,7 +151,7 @@ PILE is an exceptional resource for students, researchers, and professionals see
       - *Practice 2*: Ligand-based screening: Compound similarity and compound clustering
 - **3. Machine learning: Theory and applications in drug design**
   - **3.1** Introduction to Machine Learning
-  - **3.2_Practice 1**: Ligand classification model
+  - *Practice 1*: Ligand classification model
 
 ## Objetive
 The aim of this course is to teach essential concepts and skills in drug design and modeling. The course is designed to cater to a wide range of students, from novice to advanced, covering multiple topics, such as an introduction to Python, data manipulation and visualization, structure-based and ligand-based drug design, and virtual screening. The curriculum is modular to let instructors customize the material according to their needs and teaching methods.
