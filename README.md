@@ -1,8 +1,8 @@
-<table> 
+<table>
   <tr>
     <td><img src="Logo-PILE.png" alt="Logo PILE" style="width: 150px;"></td>
          <td><h1>"Pharmaco-Informatics Learning Environment" (PILE)</h1></td>
-  </tr> 
+  </tr>
 </table>
 
 
@@ -34,7 +34,7 @@ PILE es un recurso excepcional para estudiantes, investigadores y profesionales 
       - Librerias `numpy` y `pandas`
       - Limpieza y filtrado de bases de datos
       - *Práctica 1*: Adquirir datos de ChEMBL
-      
+
   - **2.2** Introducción a la visualización de Datos
       - Librerias `matplotlib` y `seaborn`
         - Gráficos de líneas, gráficos circulares, gráficos de barras horizontales, gráficos de barras verticales, histogramas, gráficos de radar, ...
@@ -43,7 +43,7 @@ PILE es un recurso excepcional para estudiantes, investigadores y profesionales 
 - **3. Machine learning: teoría y aplicaciones en el diseño de fármacos.**
   - **3.1** Introducción a Machine Learning
   - **3.2_Práctica 1**: Modelo de clasificación de ligandos
-       
+
 ## Objetivo
 El objetivo de este curso es enseñar conceptos y habilidades esenciales en el diseño y modelado de fármacos. El curso está diseñado para atender a una amplia gama de estudiantes, desde principiantes hasta avanzados, y cubre múltiples temas, como una introducción a Python, manipulación y visualización de datos, diseño de fármacos basado en estructuras y ligandos, y detección virtual. El plan de estudios es modular para permitir que los instructores personalicen el material de acuerdo con sus necesidades y métodos de enseñanza.
 
@@ -59,11 +59,11 @@ Este curso es adecuado para estudiantes de pregrado y posgrado que deseen profun
 Para utilizar el cuaderno puedes:
 
 - Opción 1: Clonando el repositorio a tu ordenador usando el paquete `git`.
-- Opción 2: Descargándolo como archivo zip y descomprimiéndolo. 
+- Opción 2: Descargándolo como archivo zip y descomprimiéndolo.
 - Opción 3: Seguir los enlaces de Google CoLab en cada cuaderno.
 
    **Nota**: En Windows, es necesario instalar el paquete `Git`. Puede ver las instrucciones [aquí](https://git-scm.com/download/win).
-   
+
 ```console
 git clone https://github.com/ramirezlab/PILE.git
 ```
@@ -106,11 +106,11 @@ Este trabajo está autorizado bajo la Licencia MIT
 
 *******************************************************************************************
 
-<table> 
+<table>
   <tr>
     <td><img src="Logo-PILE.png" alt="Logo PILE" style="width: 150px;"></td>
          <td><h1>"Pharmaco-Informatics Learning Environment" (PILE)</h1></td>
-  </tr> 
+  </tr>
 </table>
 
 ## INTRODUCTION
@@ -128,7 +128,7 @@ PILE is an exceptional resource for students, researchers, and professionals see
 1. To know methodologies and programming environments in Python language for users of chemical and/or related sciences.
 2. To configure and use libraries for data analysis and visualization applied to chemoinformatics.  
 3. To implement solutions to optimize computer-aided drug design processes.  
-4. To apply solutions based on Machine learning algorithms to perform ligand-based virtual screening campaigns. 
+4. To apply solutions based on Machine learning algorithms to perform ligand-based virtual screening campaigns.
 
 ## Contents
 - **1. Basic python: begin your journey into pharmacoinformatics**
@@ -139,9 +139,9 @@ PILE is an exceptional resource for students, researchers, and professionals see
 - **2. From data to graphs: drug-likeness properties and chemical similarity with python**
   - **2.1** Introduction to manipulating advanced data structures with Pandas
       - `numpy` and `pandas` libraries
-      - Database cleaning and filtering 
+      - Database cleaning and filtering
       - *Practice*: Compound data acquisition: ChEMBL
-      
+
   - **2.2** Introduction to data visualization
       - `matplotlib` and `seaborn` libraries
         - Lineplots, pie plots, horizontal bar plots, vertical bar plots, histograms, radar plots, ...
@@ -150,7 +150,7 @@ PILE is an exceptional resource for students, researchers, and professionals see
 - **3. Machine learning: Theory and applications in drug design**
   - **3.1** Introduction to Machine Learning
   - **3.2_Practice 1**: Ligand classification model
-       
+
 ## Objetive
 The aim of this course is to teach essential concepts and skills in drug design and modeling. The course is designed to cater to a wide range of students, from novice to advanced, covering multiple topics, such as an introduction to Python, data manipulation and visualization, structure-based and ligand-based drug design, and virtual screening. The curriculum is modular to let instructors customize the material according to their needs and teaching methods.
 
@@ -166,8 +166,8 @@ This course is suitable for undergraduate and graduate students who want to delv
 To use the notebook you can:
 
 - Option 1: Cloning the repository to your computer using the `git` package.
-- Option 2: Downloading it as a zip archive and unzipping it. 
-- Option 3: Follow the Google CoLab links in each notebook. 
+- Option 2: Downloading it as a zip archive and unzipping it.
+- Option 3: Follow the Google CoLab links in each notebook.
 
    **Note**: In Windows operating system, it is necessary to install the `Git` package. Please see [here](https://git-scm.com/download/win) for instructions on how to install it.
 
@@ -181,7 +181,7 @@ git clone https://github.com/ramirezlab/PILE.git
 Install Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 
 3. Use the package management system conda to create an environment (PILE). We provide an environment file (yml file) containing all required packages. Once Anaconda is installed, you can initiate the command line to create the environment and install the requirements using the following code:
-   
+
   **Note**: To initiate the `command line` in Windows, you can either search for "_Anaconda Prompt_" in the Start menu and the command prompt window will appear.
 ```console
 conda env create -file requisites.yml
@@ -208,4 +208,3 @@ jupyter notebook
 This work is licensed under the MIT License
 
 ## Citation
-
