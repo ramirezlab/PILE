@@ -25,7 +25,8 @@ PILE es un recurso excepcional para estudiantes, investigadores y profesionales 
 
 ## Contenido
 - **1. Python Básico: inicia tu viaje por la farmacoinformatica**
-  - Variables, tipos de datos, estructuras de datos, manipulación de archivos, estructuras de control de flujo, funciones...
+  - **1.1** Introducción a Python.
+    - Variables, tipos de datos, estructuras de datos, manipulación de archivos, estructuras de control de flujo, funciones.
   - *Práctica 1 y 2*: Expresión del material genético
   - *Práctica 3*: Proteínas y aminoácidos
 
@@ -132,7 +133,8 @@ PILE is an exceptional resource for students, researchers, and professionals see
 
 ## Contents
 - **1. Basic python: begin your journey into pharmacoinformatics**
-  - Variables, data types, data structures, file manipulation, flow control structures, functions...
+  - **1.1** Introduction to Python.
+    - Variables, data types, data structures, file manipulation, flow control structures, functions...
   - *Practice 1 and 2*: Expression of genetic material
   - *Practice 3*: Proteins and amino acids
 
