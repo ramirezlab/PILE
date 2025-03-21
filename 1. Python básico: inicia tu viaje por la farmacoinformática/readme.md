@@ -1,4 +1,4 @@
-# 1. Python básico_ inicia tu viaje por la farmacoinformática
+# 1. Python básico: inicia tu viaje por la farmacoinformática
 
 ### Introducción a Python y Jupyter para su aplicación en "Pharmaco-Informatics Learning Environment (PILE)"
 
